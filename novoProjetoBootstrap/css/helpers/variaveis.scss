@@ -1,0 +1,9 @@
+//$cor-auxiliar: adjust-hue(#1e2c35, 30%);
+//$cor-auxiliar: saturate(#1e2c35, 50%);
+//$cor-auxiliar: complement(#1e2c35, 50%);
+
+$cor-padrao: darken(#c24e4b, 0%); //--para escurecer
+$cor-auxiliar: lighten(#1e2c35, 0%); //--para clarear
+$cor-branca: #ffffff;
+
+$mq-mobile: "(max-width: 980px)";
